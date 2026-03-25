@@ -1,0 +1,8 @@
+# test_run.py
+
+def main():
+    print("✅ Python is working correctly!")
+    print("🚀 Repository test successful.")
+
+if __name__ == "__main__":
+    main()
